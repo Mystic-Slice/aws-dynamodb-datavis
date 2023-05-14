@@ -8,7 +8,9 @@
     Click "Show" near AWS CLI
 4. Set the table name from DynamoDB
 
-4. `npm run dev` to run the app
+5. `npm run dev` to run the app
+
+![Sample Pic](sample_pic.png)
 
 # Usage:
 1. The refresh button gets data from database and displays on graph
